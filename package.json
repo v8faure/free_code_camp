@@ -1,7 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "valentin",
-	"description": "education on free code camp and school21"
+	"description": "education on free code camp and school21",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
